@@ -37,38 +37,38 @@ class Vow
 			
 			case'i':
 			{
-			System.out.println("\ta is Vowel");
+			System.out.println("\ti is Vowel");
 			break;
 			}
 			
 			case'I':
 			{
-			System.out.println("\ta is Vowel");
+			System.out.println("\tI is Vowel");
 			break;
 			}
 			
 			case'o':
 			{
-			System.out.println("a is Vowel");
+			System.out.println("o is Vowel");
 			break;
 			}
 			
 			case'O':
 			{
-			System.out.println("a is Vowel");
+			System.out.println("O is Vowel");
 			break;
 			}
 			
 			case'u':
 			{
-			System.out.println("a is Vowel");
+			System.out.println("u is Vowel");
 			break;
 			}
 		
 			
 			case'U':
 			{
-			System.out.println("a is Vowel");
+			System.out.println("U is Vowel");
 			break;
 			}
 			default:
